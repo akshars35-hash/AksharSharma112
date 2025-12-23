@@ -1,4 +1,4 @@
-## Variabiltty in PV Power Generation from Weather Conditions
+## Variability in PV Power Generation from Weather Conditions
 
 
 ## Introduction 
